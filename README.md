@@ -1,6 +1,4 @@
-![image](https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/assets/111238384/56d736f6-355d-490e-bd53-07049a5240b8)## Accenture-Data-Analytics-Virtual-internship-Project
 Accenture North America - Data Analytics and Visualization Job Simulation
-
 
 # SOCIALBUZZ 
 CASE STUDY: The objective to start our engagement with Social Buzz, running a 3 month initial project in order to prove to them that we are the best firm to work with. They are expecting the following: 
@@ -77,7 +75,7 @@ We know that the client wants to understand the top 5 content categories. There 
 - How many reactions are there to the most popular category?
 - What was the month with the most posts?
 ###### Powerpoint Presentation - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/8344a2ab11696f6226fd2b7138abb2b589f93479/Power%20Presentation%20-%20Social%20Buzz.pptx
-###### Data Analysis and Visualization - 
+###### Data Analysis and Visualization - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/5c52482c97d2fee25936c8f12914d61ef212d23a/Data%20Analysis%20-%20Social%20Buzz.xlsx
 1. Analysis - Animals and Science are the two most popular categories of content, showing that people enjoy “real-life” and “factual” content the most.
 2. Insights - Food is a common theme with the top 5 categories with “Healthy Eating” ranking the highest. This may given an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
 
