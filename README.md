@@ -59,7 +59,7 @@ Hint: You can use a “VLookUp” formula
 Add up the total scores for each category.
 Hint: You can use the “Sum If” formula
 The end result should be one spreadsheet which contains:
-- cleaned dataset -
+###### cleaned dataset - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/62b9a02ec155bf073ff10205152846672103d091/Cleaned%20and%20Combined%20Data.xlsx
 
 ### TASK 3: DATA VISUALIZATION AND STORY TELLING
 Prepare a Powerpoint Presentation, 
