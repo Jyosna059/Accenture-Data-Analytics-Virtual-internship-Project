@@ -76,7 +76,7 @@ We know that the client wants to understand the top 5 content categories. There 
 - How many unique categories are there?
 - How many reactions are there to the most popular category?
 - What was the month with the most posts?
-###### Powerpoint Presentation - 
+###### Powerpoint Presentation - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/8344a2ab11696f6226fd2b7138abb2b589f93479/Power%20Presentation%20-%20Social%20Buzz.pptx
 ###### Data Analysis and Visualization - 
 1. Analysis - Animals and Science are the two most popular categories of content, showing that people enjoy “real-life” and “factual” content the most.
 2. Insights - Food is a common theme with the top 5 categories with “Healthy Eating” ranking the highest. This may given an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
