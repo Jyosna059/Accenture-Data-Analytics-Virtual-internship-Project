@@ -38,7 +38,7 @@ To clarify why you made this selection:
 #### Data Cleaning
 ##### STEP1 - Open the three data sets below
 1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/12982fa83af572384ed0f7bfa587f6fa43fc9850/Content%20.csv
-2. Reactions -
+2. Reactions - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/13fc83b2e0789f8b34facb88b23397f8f6e0ea86/Reactions.csv
 3. Reations Type - 
 ##### STEP2: Clean the data by:
 1. removing rows that have values which are missing,
