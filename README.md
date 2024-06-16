@@ -37,7 +37,7 @@ To clarify why you made this selection:
 
 #### Data Cleaning
 ##### STEP1 - Open the three data sets below
-1. Content - 
+1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/12982fa83af572384ed0f7bfa587f6fa43fc9850/Content%20.csv
 2. Reactions -
 3. Reations Type - 
 ##### STEP2: Clean the data by:
@@ -47,7 +47,7 @@ To clarify why you made this selection:
       Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 ##### STEP3 - Your end result should be three cleaned data sets. 
 Cleaned Datasets - 
-1. Content
+1. Content - 
 2. Rections -
 3. Reactions Type
 
