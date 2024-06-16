@@ -49,7 +49,7 @@ To clarify why you made this selection:
 Cleaned Datasets - 
 1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/b6341cc165366744509a9816de76399d621b8530/Cleaned%20data%20-%20content.csv
 2. Rections - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/9abfa88b0d429b911357e09b922895938045d914/Cleaned%20data%20-%20Reactions.csv
-3. Reactions Type - 
+3. Reactions Type - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/5940382dbc33b51eed786e4cd01251ae198ad978/Cleaned%20data%20-ReactionTypes.csv
 
 #### Data Modelling
 ##### STEP1 - Create a final data set by merging your three tables together
