@@ -31,7 +31,7 @@ To identify which content categories are most popular. Popularity is determined 
 ##### Among the 7 data sets, The 3 data sets will you need to complete your analysis - Reaction, Content, Reaction Types
 To clarify why you made this selection:
 - The brief carefully it states that the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
-- As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
+- popularity is quantified by the “Score” given to each reaction type.
 - We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
 - So, to figure out popularity, we’ll have to add up which content categories have the largest score.
 
@@ -48,8 +48,8 @@ To clarify why you made this selection:
 ##### STEP3 - Your end result should be three cleaned data sets. 
 Cleaned Datasets - 
 1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/b6341cc165366744509a9816de76399d621b8530/Cleaned%20data%20-%20content.csv
-2. Rections -
-3. Reactions Type
+2. Rections - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/9abfa88b0d429b911357e09b922895938045d914/Cleaned%20data%20-%20Reactions.csv
+3. Reactions Type - 
 
 #### Data Modelling
 ##### STEP1 - Create a final data set by merging your three tables together
