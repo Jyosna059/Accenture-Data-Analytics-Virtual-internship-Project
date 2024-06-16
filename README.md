@@ -47,7 +47,7 @@ To clarify why you made this selection:
       Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 ##### STEP3 - Your end result should be three cleaned data sets. 
 Cleaned Datasets - 
-1. Content - 
+1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/b6341cc165366744509a9816de76399d621b8530/Cleaned%20data%20-%20content.csv
 2. Rections -
 3. Reactions Type
 
