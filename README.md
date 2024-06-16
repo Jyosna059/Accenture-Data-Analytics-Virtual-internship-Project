@@ -37,9 +37,9 @@ To clarify why you made this selection:
 
 #### Data Cleaning
 ##### STEP1 - Open the three data sets below
-1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/12982fa83af572384ed0f7bfa587f6fa43fc9850/Content%20.csv
-2. Reactions - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/13fc83b2e0789f8b34facb88b23397f8f6e0ea86/Reactions.csv
-3. Reations Type - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/d520780d1501218427f4652f0691b4676e851b41/ReactionTypes%20(1).csv
+###### 1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/12982fa83af572384ed0f7bfa587f6fa43fc9850/Content%20.csv
+###### 2. Reactions - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/13fc83b2e0789f8b34facb88b23397f8f6e0ea86/Reactions.csv
+###### 3. Reations Type - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/d520780d1501218427f4652f0691b4676e851b41/ReactionTypes%20(1).csv
 ##### STEP2: Clean the data by:
 1. removing rows that have values which are missing,
 2. changing the data type of some values within a column, and
@@ -47,9 +47,9 @@ To clarify why you made this selection:
       Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 ##### STEP3 - Your end result should be three cleaned data sets. 
 Cleaned Datasets - 
-1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/b6341cc165366744509a9816de76399d621b8530/Cleaned%20data%20-%20content.csv
-2. Rections - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/9abfa88b0d429b911357e09b922895938045d914/Cleaned%20data%20-%20Reactions.csv
-3. Reactions Type - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/5940382dbc33b51eed786e4cd01251ae198ad978/Cleaned%20data%20-ReactionTypes.csv
+###### 1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/b6341cc165366744509a9816de76399d621b8530/Cleaned%20data%20-%20content.csv
+###### 2. Rections - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/9abfa88b0d429b911357e09b922895938045d914/Cleaned%20data%20-%20Reactions.csv
+###### 3. Reactions Type - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/5940382dbc33b51eed786e4cd01251ae198ad978/Cleaned%20data%20-ReactionTypes.csv
 
 #### Data Modelling
 ##### STEP1 - Create a final data set by merging your three tables together
