@@ -39,7 +39,7 @@ To clarify why you made this selection:
 ##### STEP1 - Open the three data sets below
 1. Content - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/12982fa83af572384ed0f7bfa587f6fa43fc9850/Content%20.csv
 2. Reactions - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/13fc83b2e0789f8b34facb88b23397f8f6e0ea86/Reactions.csv
-3. Reations Type - 
+3. Reations Type - https://github.com/Jyosna059/Accenture-Data-Analytics-Virtual-internship-Project/blob/d520780d1501218427f4652f0691b4676e851b41/ReactionTypes%20(1).csv
 ##### STEP2: Clean the data by:
 1. removing rows that have values which are missing,
 2. changing the data type of some values within a column, and
